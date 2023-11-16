@@ -44,5 +44,5 @@ Feel free to customize the game by modifying the following:
 
 ## Credits
 - https://www.youtube.com/playlist?list=PLjcN1EyupaQkz5Olxzwvo1OzDNaNLGWoJ
-This game was created using the Pygame library.
-Images used in the game are credited to their respective authors.
+- This game was created using the Pygame library.
+- Images used in the game are credited to their respective authors.
